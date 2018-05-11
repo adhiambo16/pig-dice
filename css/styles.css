@@ -1,0 +1,12 @@
+body{
+  background-image: url("../img/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  color: #337DFF    ;
+  font-family: sans-serif;
+  font-size: 85px;
+  text-align: center;
+}
