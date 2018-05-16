@@ -1,5 +1,5 @@
-# Anita's Kitchen
-#### It is a compilation of materials that exemplifies Anita's Kitchen details, 27/4/2018
+# Pig Dice
+#### This is a simple game play of dice roll or hold , 16/4/2018
 #### By Lydia
 ## Description
 This is a project of a game to be played by two people for dice roll and hold when your turn is over.
