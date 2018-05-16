@@ -10,3 +10,11 @@ h1{
   font-size: 85px;
   text-align: center;
 }
+h5{
+  font-size: 20px;
+  color: #FF7D33  ;
+  padding-left: 26px;
+}
+ul{
+  color: #337DFF ; 
+}
